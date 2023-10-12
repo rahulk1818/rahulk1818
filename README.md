@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Metropolitan City**
 
-- 🌱 I’m currently learning **React,mongoDB**
+- 🌱 I’m currently learning **Flutter**,**FastAPI**,**PostgreSQL**,**Python-TKinter**,**Oracle**,**Java**.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N31IA5CuHmQBO0XocgGi9USQnlIBJjyM/view?usp=sharing](https://drive.google.com/file/d/1N31IA5CuHmQBO0XocgGi9USQnlIBJjyM/view?usp=sharing)
+- 📄 Know about my experiences [My Resume ](https://rxresu.me/rkushwaha1818/rkushwaha)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
